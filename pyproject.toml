@@ -2,7 +2,7 @@
 name = "vkinder"
 version = "0.1.0"
 description = ""
-authors = ["taimast <81189712+taimast@users.noreply.github.com>"]
+authors = [""]
 readme = "README.md"
 
 [tool.poetry.dependencies]
